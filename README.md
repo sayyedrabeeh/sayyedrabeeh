@@ -3,17 +3,7 @@
 I'm a self-taught full-stack developer from 🇮🇳 India with a passion for building clean, scalable, and creative web applications. I love working with both frontend and backend, and I'm always exploring new technologies.
 
 ---
-
-### 🚀 About Me
-
-- 💻 Currently working on: A full-scale Hospital Management System in Django
-- 🌱 Learning: Advanced JavaScript, System Design & Cloud Deployment
-- 🧪 Experimenting with: Microservices, Docker, and MongoDB aggregation
-- 🎯 Goals: Build open-source tools and contribute to real-world projects
-- 💬 Ask me about: Django, JavaScript, MongoDB, REST APIs
-- 📫 Reach me at: [sayyedrabeeh240@gmail.com](mailto:sayyedrabeeh240@gmail.com)
-
----
+ 
 
 ### 🛠️ Tech Stack
 
