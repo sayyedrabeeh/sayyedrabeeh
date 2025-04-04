@@ -8,12 +8,12 @@ I'm a self-taught full-stack developer from 🇮🇳 India with a passion for bu
 ### 🛠️ Tech Stack
 
 #### 🌐 Languages & Frameworks
-- Python (Django, FastAPI), JavaScript (Vanilla, Node.js)
+- Python (Django ), JavaScript  
 - HTML, CSS, React, MongoDB, PostgreSQL
 
 #### ⚙️ Tools & Platforms
-- Git, GitHub, Linux, Docker, Render, Vercel
-- VS Code, Postman, Figma (basics)
+- Git, GitHub, 
+- VS Code,  Figma (basics)
 
 ---
 
