@@ -1,20 +1,9 @@
-## Hi there  👋
-I Am Rabii
->A passionate self-thaght full-stack developer from india
-<!--
-**sayyedrabeeh/sayyedrabeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋  
+I am **Rabii**  
+> A passionate self-taught full-stack developer from India 🌏
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -26,7 +15,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="your-username stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyedrabeeh&show_icons=true&theme=tokyonight" alt="sayyedrabeeh stats" />
 </p>
 
 ---
@@ -34,7 +23,7 @@ Here are some ideas to get you started:
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyedrabeeh&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
@@ -42,14 +31,14 @@ Here are some ideas to get you started:
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedrabeeh&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🧠 My GitHub Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=tokyo-night)](https://github.com/your-username)
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayyedrabeeh&theme=tokyo-night)](https://github.com/sayyedrabeeh)
 
 ---
 
