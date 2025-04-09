@@ -36,15 +36,15 @@ I'm a self-taught full-stack developer from 🇮🇳 India with a passion for bu
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyedrabeeh&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sayyedrabeeh&theme=tokyonight" />
+
 </p>
 
 ---
 
 ### 🧠 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sayyedrabeeh&theme=tokyo-night)](https://github.com/sayyedrabeeh)
-
+[GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sayyedrabeeh&theme=tokyo-night)](https://github.com/sayyedrabeeh)
 ---
 
 ### 🌐 Connect With Me
