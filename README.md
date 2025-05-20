@@ -39,7 +39,7 @@
 </div>
 
 🔥 Recent Projects
-<div align="center"> <a href="https://github.com/sayyedrabeeh/nanoride"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayyedrabeeh&repo=nanoride&theme=tokyonight&hide_border=true" width="48%"/> </a> <a href="https://github.com/sayyedrabeeh/tiny-tires"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayyedrabeeh&repo=tiny-tires&theme=tokyonight&hide_border=true" width="48%"/> </a> </div>
+<div align="center"> <a href="https://github.com/sayyedrabeeh/resume-ai-"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayyedrabeeh&repo=resume-ai-&theme=tokyonight&hide_border=true" width="48%"/> </a> <a href="https://github.com/sayyedrabeeh/virtual-painter"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=sayyedrabeeh&repo=virtual-painter&theme=tokyonight&hide_border=true" width="48%"/> </a> </div>
 
 ## 📫 Let's Connect
 
