@@ -1,5 +1,5 @@
 [![MasterHead](https://camo.githubusercontent.com/18164139dc09e94a64895db627938c931a5aaa359a9a57b4a61ce77a58330990/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)](https://rishavchanda.io)
-# graph
+ 
 <div align="center" style="background: transparent;">
   <img style="background: transparent;" src="https://github.com/sayyedrabeeh/sayyedrabeeh/blob/main/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
