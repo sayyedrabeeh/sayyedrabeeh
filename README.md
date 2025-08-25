@@ -30,10 +30,8 @@
 
  
 
-## 🛠️ Tech Stack
-
-**💻 Languages & Tools**  
-<h2 align="center">🚀 Tech Stack</h2>
+  
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <i>Here are the technologies I love working with:</i>
