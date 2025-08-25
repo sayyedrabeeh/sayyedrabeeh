@@ -32,11 +32,17 @@
 
   
 <h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <i>✨ A passionate developer who loves crafting scalable apps, solving problems, and exploring new technologies.</i>
+<p>
+   <i>
+    Over the years, I have worked with a diverse range of technologies  
+    that enable me to build complete, scalable, and maintainable solutions.  
+    My focus is on writing clean, efficient code while leveraging  
+    frameworks and tools that maximize productivity and performance.  
+    Below are the core technologies and platforms I use regularly.  
+  </i>
 </p>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Cloud;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 <p align="center">
