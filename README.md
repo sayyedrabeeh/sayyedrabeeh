@@ -32,7 +32,13 @@
 
   
 <h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <i>✨ A passionate developer who loves crafting scalable apps, solving problems, and exploring new technologies.</i>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Cloud;Always+Learning+New+Things" alt="Typing Animation" />
+</p>
 <p align="center">
   <i>Here are the technologies I love working with:</i>
 </p>
