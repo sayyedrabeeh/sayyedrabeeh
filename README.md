@@ -33,11 +33,93 @@
 ## 🛠️ Tech Stack
 
 **💻 Languages & Tools**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap" height="40" alt="Languages" /><br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,firebase" height="40" alt="Databases & Cloud" /><br />
-  <img src="https://skillicons.dev/icons?i=aws,git,figma,opencv" height="40" alt="Tools & Platforms" />
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <i>Here are the technologies I love working with:</i>
 </p>
+
+<div align="center">
+
+  <!-- Languages -->
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"/><br>
+        <b>Python</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=django" width="50" alt="Django"/><br>
+        <b>Django</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="50" alt="React"/><br>
+        <b>React</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"/><br>
+        <b>JavaScript</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"/><br>
+        <b>HTML</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"/><br>
+        <b>CSS</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"/><br>
+        <b>Bootstrap</b>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Databases & Cloud -->
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB"/><br>
+        <b>MongoDB</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="50" alt="PostgreSQL"/><br>
+        <b>PostgreSQL</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="50" alt="SQLite"/><br>
+        <b>SQLite</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"/><br>
+        <b>Firebase</b>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Tools & Platforms -->
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=aws" width="50" alt="AWS"/><br>
+        <b>AWS</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="50" alt="Git"/><br>
+        <b>Git</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=figma" width="50" alt="Figma"/><br>
+        <b>Figma</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=opencv" width="50" alt="OpenCV"/><br>
+        <b>OpenCV</b>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 ## 📊 GitHub Analytics
 
