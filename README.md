@@ -175,21 +175,13 @@
 
 ## 🏆 Coding Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyedrabeeh&theme=tokyonight" width="100%" alt="coding activity"/>
-</div>
+ 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayyedrabeeh&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sayyedrabeeh&theme=radical" width="32%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayyedrabeeh&theme=radical" width="32%"/>
-</div>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayyedrabeeh&theme=react-dark&bg_color=0D1117&color=e39777&line=e39777&point=FFFFFF&area=true&hide_border=true" width="100%" alt="activity graph"/>
-
-<!-- Footer Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+</div> 
 
 <!-- Quote -->
 
